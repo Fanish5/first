@@ -5,3 +5,5 @@ arr = []
 for i in arr :
   arr.push(x + i)
 print(arr)
+print("Fanish")
+print("now")
