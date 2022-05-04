@@ -7,3 +7,4 @@ for i in arr :
 print(arr)
 print("Fanish")
 print("now")
+print("done changes")
